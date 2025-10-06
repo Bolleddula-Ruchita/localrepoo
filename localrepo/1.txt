@@ -1,1 +1,2 @@
-Hiii this is git
+Hiii this is git 
+We use pull
